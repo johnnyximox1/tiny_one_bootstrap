@@ -1,0 +1,161 @@
+/* font-family: 'PT Sans', sans-serif; */
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+header {
+    background-color: #FCDB00;
+    padding-top: 50px;
+}
+
+.header_logo img {
+    margin-bottom: 10px;
+}
+
+.nav_common {}
+
+.nav_common ul li:last-child a {
+    padding-right: 0px !important;
+}
+
+.nav_common ul li a {
+    font-size: 22px;
+    color: black !important;
+    padding: 0 50px !important;
+    margin-bottom: 10px;
+}
+
+.banner {
+    background-color: #FCDB00;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+.banner_wrapper1 {
+    margin-left: 23px;
+    margin-top: 70px;
+}
+
+.banner_wrapper1 ul {
+    margin-top: 30px;
+}
+
+.banner_wrapper1 ul li {
+    font-size: 40px;
+}
+
+.banner_wrapper1 ul li i {
+    margin-right: 30px;
+}
+
+.banner_wrapper1 h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.banner_wrapper1 h4 {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.banner_wrapper1 h6 {
+    font-size: 15px;
+    margin-top: 30px;
+    color: #605E4F;
+}
+
+.banner_image img {
+    margin-left: 25px;
+}
+
+.features_text {
+    padding-top: 115px;
+    padding-bottom: 80px;
+}
+
+.features_text h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.features_text p {
+    font-size: 21px;
+    color: #62676E;
+}
+
+.service_logo {
+    text-align: center;
+}
+
+.service {
+    padding-bottom: 80px;
+}
+
+.service_text h1 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.service_text p {
+    font-size: 16px;
+    color: #989898;
+}
+
+.service_single {
+    margin-bottom: 75px;
+}
+
+.touch {
+    background-color: black;
+    padding-top: 100px;
+}
+
+.touch_text {}
+
+.touch_text h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #FCDB00;
+}
+
+.touch_text p {
+    font-size: 21px;
+    color: #62676E;
+}
+
+.touch_form {
+    padding: 25px 0
+}
+
+.touch_input {
+    
+}
+
+.touch_button {}
+
+.touch_submit {
+   padding: 11px 30px;
+    background-color: #FCDB00;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer_logos {
+    padding: 55px 0px;
+}
+
+.footer_logos ul li {
+    margin: 0px 25px;
+}
+
+.footer_logos ul li i {
+    font-size: 40px;
+    color: #FCDB00;
+}
+footer {
+    background-color: black;
+    color: #BEBEBE;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
